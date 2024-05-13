@@ -1,6 +1,6 @@
 *** Settings ***
 Documentation     BOSS AOB regression
-...               dev-Saurabh Singh
+...               
 
 
 #Suite Setup and Teardown
